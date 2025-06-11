@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Build
+dist/
+.vite/
+
+# Logs
+*.log
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
